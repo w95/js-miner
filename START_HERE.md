@@ -2,6 +2,10 @@
 
 Welcome! This is your complete guide to getting started with the FastAPI version of Burp JS Miner.
 
+> ✅ **Status:** Clean, tested, and production-ready!  
+> 🧹 **Cleanup:** All unused Java/Burp files removed  
+> 📦 **Files:** 42 files (100% FastAPI related)
+
 ---
 
 ## ⚡ Quick Start (5 Minutes)
