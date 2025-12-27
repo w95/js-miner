@@ -1,0 +1,1 @@
+# FastAPI JS Miner Application
